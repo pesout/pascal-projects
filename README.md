@@ -1,2 +1,2 @@
-# pascal-projects
+# Pascal Projects
 Miscellaneous multilingual Pascal projects
