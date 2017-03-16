@@ -1,4 +1,4 @@
-program Razeni;
+program Razeni; {Will be translted soon.}
 uses crt;
 
 var
